@@ -1,0 +1,24 @@
+{
+  "name": "@talentsoft-opensource/eslint-config-talentsoft",
+  "version": "1.0.0",
+  "description": "Base ESlint config, Talentsoft style.",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "talentsoft"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalentSoft/eslint-config-talentsoft.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TalentSoft/eslint-config-talentsoft/issues"
+  },
+  "homepage": "https://github.com/TalentSoft/eslint-config-talentsoft#readme",
+  "author": "Talentsoft",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 5.11.0"
+  }
+}
